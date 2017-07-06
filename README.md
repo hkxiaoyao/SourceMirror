@@ -1,2 +1,3 @@
 # SourceMirror
 自动脚本替换Ubuntu软件源
+将文件夹中的两个文件置于同一目录，sources_mirrors.list中软件源地址可自行添加修改。运行firstmirror.sh后会备份并替换成最优软件源地址
